@@ -1,7 +1,5 @@
 #  Space Shooter — Ugutna War
 
-![Gameplay Screenshot](image(1).png)
-
 A **story-driven 2D space shooter** built using **C++ and Raylib**.
 
 In the year **3157**, the alien **Ugutna Empire** conquered Earth and enslaved humanity. You are the only survivor who escaped with the last fighter ship. Fight through enemy fleets, collect upgrades, and defeat **Emperor Ugutna** to save humanity.
